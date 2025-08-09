@@ -1,6 +1,6 @@
 [submodule "client-gateway"]
 	path = client-gateway
-	url = https://github.com/Nest-Microservices-DevTalles/client-gateway.git
+	url = https://github.com/alberto8812/client-gateway.git
 [submodule "products-ms"]
 	path = products-ms
 	url = https://github.com/Nest-Microservices-DevTalles/products-microservice.git
@@ -9,7 +9,13 @@
 	url = https://github.com/Nest-Microservices-DevTalles/orders-microservice.git
 [submodule "payments-ms"]
 	path = payments-ms
-	url = https://github.com/Nest-Microservices-DevTalles/payments-ms.git
+	url = https://github.com/alberto8812/payments-ms.git
 [submodule "auth-ms"]
 	path = auth-ms
-	url = https://github.com/Nest-Microservices-DevTalles/auth-ms.git
+	url = https://github.com/alberto8812/auth-ms.git
+[submodule "orders-microservice"]
+	path = orders-microservice
+	url = https://github.com/alberto8812/orders-microservice.git
+[submodule "products-microservice"]
+	path = products-microservice
+	url = https://github.com/alberto8812/products-microservice.git
